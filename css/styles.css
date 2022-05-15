@@ -1,0 +1,6 @@
+.recipeImg{
+    border: 1px solid hsl(0, 0%, 67%);
+    border-radius: 4px;
+    padding: 1px;
+    width: 50vw;
+}
